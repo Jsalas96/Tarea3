@@ -1,0 +1,20 @@
+Tomo un objeto(Sarten, Naranjas, Paltas, Pan, Café)
+Preparo el café en una cafetera
+Corto la palta
+Muelo la palta y la dejo en un plato
+Caliento el pan en el horno
+Preparo los requisitos de los panqueques
+Corto las Naranjas
+Preparo jugo de las Naranjas
+Sirvo el jugo de las Naranjas en un Vaso
+¿Está listo el Café? (TRUE or FALSE, if FALSE, wait until ready, IF TRUE, keep going)
+Sirvo el café CALIENTE
+¿Están listos los panqueques? (TRUE or FALSE, if FALSE, wait until ready, if TRUE, keep going)
+Caliento el sartén
+Preparo los Panqueques
+Relleno los panqueques con el manjar
+¿Están listos los panes? (TRUE or FALSE, if FALSE, wait until ready, if TRUE, keep going)
+Cortar los panes
+Preparar los panes CALIENTES con palta
+¿Está el café, los panes con palta, los panqueques y el jugo LISTOS? (TRUE or FALSE, if FALSE, go back to missing step)
+Si está todo listo, tomar desayuno.
